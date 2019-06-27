@@ -1,1 +1,1 @@
-This folder contains data and code to reproduce resutls presented in manuscript “Scientific Literature Classification by Exploiting Crowdsourced Social Media Contents of Altmetric Data” submitted for publication in Computers in Human Behavior for the special issue entitled “Anticipatory Computing: Crowd Intelligence from Social Network and Big Data”. 
+This folder contains data and code to reproduce resutls presented in manuscript “Tweet Coupling: Clustering of Similar Scientific Publications”. 
